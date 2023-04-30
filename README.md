@@ -45,4 +45,4 @@ jupyter notebook
 
 Open the Jupyter Notebook file (`Analyzing County Level HIV & AIDs Data in Python.ipynb`) and run the cells to perform the analysis and generate the interactive bar chart. The chart includes a slider to filter the data by year.
 
-The visualization will also be saved as an HTML report (`Analyzing County Level HIV & AIDs Data in Python.html`) and can be uploaded to DataPane if you have an account and API token.
+The visualization will be available here: https://cloud.datapane.com/reports/P3XOOMA/hiv-aids/
